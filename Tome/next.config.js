@@ -4,19 +4,19 @@ const nextConfig = {
   swcMinify: true,
   env: {
     //Google OAuth
-    GOOGLE_ID: "584087709405-dmc8je3tp5u9bs1unphrl0thja0ccdeu.apps.googleusercontent.com",
-    GOOGLE_SECRET: "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",
+    GOOGLE_ID: "Redacted",
+    GOOGLE_SECRET: "Redacted",
 
     //NextAuth
     NEXTAUTH_URL: "http://localhost:3000",
-    NEXTAUTH_SECRET: "509788f55a1722ae78fd7104d26252b8",
+    NEXTAUTH_SECRET: "Redacted",
 
     //NextJS
     DEV: true,
     PORT: 3000,
 
     //MongoDB
-    MONGO_URI: "mongodb+srv://tome:8FV3OwQZqWTymJdU@tome.iwcfmfm.mongodb.net/test",
+    MONGO_URI: "Redacted",
     MONGO_DB: "storage",
 
     //Posts & Comments

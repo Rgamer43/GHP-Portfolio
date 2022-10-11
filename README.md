@@ -3,11 +3,11 @@ This is my portfolio for Governor's Honors.
 
 # Tome
 Node.js, HTML, CSS, Typescript, Tailwind, NextJS, Socket.io, MongoDB, NextAuth
-Tome is a social media site I'm working on. It's not finished yet, but should be soon. The client code is mostly in /pages and /components. The server code is mostly in /pages/api
+Tome is a social media site I'm working on. It's not finished yet, but should be soon. The client code is mostly in /pages and /components. The server code is mostly in /pages/api.
 
 # Dataraider
 Unity, C#
-Dataraider is a video game I made. I've only added the code, not the rest of the Unity files. It can be downloaded from https://rgamer43.itch.io/dataraider
+Dataraider is a video game I made. I've only added the code, not the rest of the Unity files. It can be downloaded from https://rgamer43.itch.io/dataraider.
 
 # Midnight Dusk
 Unity, C#
@@ -28,3 +28,19 @@ This is a multiplayer game I made with Unity's new networking library, Netcode f
 # RMUD
 Java, Swing, AWT
 RMUD is a multiplayer text adventure. It uses Java's Swing and AWT graphics libraries and uses sockets for networking.
+
+# RUtils
+Java, MongoDB, Java Discord API
+RUtils is a Discord bot I made. It adds an XP system to Discord, which rewards users for talking in my Discord Server.
+
+# StockPriceNotification
+Java, HTMLUnit, Java Email API
+This is a webscraping-based program to send me an email whenever prices for my investments are updated.
+
+# Midnight Dusk Website
+HTML, CSS, JS
+This is the website I made for Midnight Dusk (see above). Currently live at ekhostudios.com.
+
+# TicTacToe (w/ Machine Learning)
+HTML, CSS, JS
+A tic tac toe game I made. It's supposed to use machine learning to improve the bot, but I'm not sure it works. It might not work, or I just might not be testing it long enough.
