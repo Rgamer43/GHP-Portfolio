@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,500;1,300;1,500&family=Sarabun:ital,wght@0,100;0,300;1,100;1,300&display=swap');
+/*
+Use font-family: 'Cormorant Garamond', serif; for the header font
+and font-family: 'Sarabun', sans-serif; for main font
+*/
+@layer base {
+  html,
+  body {
+    padding: 0;
+    margin: 0;
+    font-family: Sarabun, sans-serif;
+    background: #f1f5f9;
+    /* color: #1c1917; */
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: Cormorant Garamond, serif;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+/* 
+  @media (prefers-color-scheme: light) {
+    html {
+      color-scheme: dark;
+    }
+    body {
+      color: white;
+      background: #;
+    }
+  } */
+}
