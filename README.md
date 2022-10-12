@@ -43,4 +43,37 @@ This is the website I made for Midnight Dusk (see above). Currently live at ekho
 
 # TicTacToe (w/ Machine Learning)
 HTML, CSS, JS
-A tic tac toe game I made. It's supposed to use machine learning to improve the bot, but I'm not sure it works. It might not work, or I just might not be testing it long enough.
+A tic tac toe game I made. It's supposed to use machine learning to improve the bot, but I'm not sure it works. It might not work, or I just might not be testing it long enough. Found in rgamer43.github.io/TicTacToe
+
+# Random Dungeon
+Unity, C#
+One of my first creations, Random Dungeon is a small video game. I've since lost the code for it, but it can be downloaded from https://rgamer43.github.io/randomdungeon/.
+
+# Unity Networking Test
+Unity, C#
+I wrote some basic code for simple multiplayer in video games using custom sockets and networking code.
+
+# Gearbox
+HTML, CSS, Tailwind
+I did some styling for this site, currently live at 4026.org, as part of the robotics team. The JS isn't mine though and most of the styling isn't either.
+
+# FRC Robot Code
+Java, WPILib
+I write robot code for the school robotics team, along with several other programmers.
+
+# Fighting Game
+Python
+Found at https://replit.com/@RENATODELLOSSO/FightingGame-or-Code-Decatur-Python-2.
+This is a simple game I made to teach as a lesson in Code Decatur
+
+# World Generator
+C#
+Found at https://replit.com/@RENATODELLOSSO/WorldGenerator.
+A simple program to procedurally generate a world, with countries, biomes, and politics.
+
+# Code Decatur
+I run Code Decatur, the coding club at school, where I teach and lead lessons on various subjects and languages.
+
+# Map Generator
+Unity, C#
+A simple algorithm to generate semi-realistic terrain.
